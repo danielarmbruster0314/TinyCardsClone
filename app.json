@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tiny-cards-clone-native",
+    "slug": "tiny-cards-clone-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tiny-cards-clone-native"
+}
